@@ -1,0 +1,9 @@
+C:\Users\JONAS\Desktop\Exercicio C#2022\Aula36\Aula36\bin\Debug\Aula36.exe.config
+C:\Users\JONAS\Desktop\Exercicio C#2022\Aula36\Aula36\bin\Debug\Aula36.exe
+C:\Users\JONAS\Desktop\Exercicio C#2022\Aula36\Aula36\bin\Debug\Aula36.pdb
+C:\Users\JONAS\Desktop\Exercicio C#2022\Aula36\Aula36\obj\Debug\Aula36.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Exercicio C#2022\Aula36\Aula36\obj\Debug\Aula36.exe
+C:\Users\JONAS\Desktop\Exercicio C#2022\Aula36\Aula36\obj\Debug\Aula36.pdb
+C:\Users\JONAS\Desktop\Aula36\Aula36\bin\Debug\Aula36.exe.config
+C:\Users\JONAS\Desktop\Aula36\Aula36\obj\Debug\Aula36.exe
+C:\Users\JONAS\Desktop\Aula36\Aula36\obj\Debug\Aula36.pdb
